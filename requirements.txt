@@ -1,0 +1,4 @@
+1.PC
+2.Python
+3.Ability to copy and paste
+4.An IDE so that you can copy and paste the possible passwords(atleast I needed an IDE to copy and paste the passwords)
